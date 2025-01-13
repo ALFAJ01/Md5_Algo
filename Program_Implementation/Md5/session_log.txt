@@ -1,0 +1,27 @@
+Script started on 2025-01-11 23:00:00+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="203" LINES="14"]
+python3 md5.py
+python3 md5.py
+exit
+7]2;mr.@nbucststd.in:...Implementation/Md5]1;nbucststd.in8mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Total binary data size: 1505280 bits
+Total binary data size: 335922688 bits
+^CTraceback (most recent call last):
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 103, in <module>
+    hash_resul = md5.compute_md5("/home/mr./Downloads/VideoDownloader/COA/L-1.2： Von Neumann's Architecture ｜ Stored Memory Concept in Computer Architecture.webm")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 86, in compute_md5
+    self.process_block(block)
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 44, in process_block
+    A = (B + self._left_rotate(A + self._F(B, C, D) + X[k] + self.T[i], s)) & 0xFFFFFFFF
+                                   ^^^^^^^^^^^^^^^^
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 20, in _F
+    def _F(self, x, y, z):
+
+KeyboardInterrupt
+
+7]2;mr.@nbucststd.in:...Implementation/Md5]1;nbucststd.in8mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> xclip -selection clipboard report.txt
+xclip: report.txt: No such file or directory
+7]2;mr.@nbucststd.in:...Implementation/Md5]1;nbucststd.in8mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> xclip -selection clipboard report.txt[K[K[K[K[K[K[K[K[K[Ksession_log.txt
+7]2;mr.@nbucststd.in:...Implementation/Md5]1;nbucststd.in8mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> xclip -selection clipboard session_log.txt
+7]2;mr.@nbucststd.in:...Implementation/Md5]1;nbucststd.in8mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> 
+Script done on 2025-01-11 23:03:37+05:30 [COMMAND_EXIT_CODE="0"]

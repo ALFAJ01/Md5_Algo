@@ -1,0 +1,1019 @@
+TXT test file
+Purpose: Provide example of this file type
+Document file type: TXT
+Version: 1.0
+Remark:
+
+Example content:
+The names "John Doe" for males, "Jane Doe" or "Jane Roe" for females, or "Jonnie Doe" and "Janie Doe" for children, or just "Doe" non-gender-specifically are used as placeholder names for a party whose true identity is unknown or must be withheld in a legal action, case, or discussion. The names are also used to refer to acorpse or hospital patient whose identity is unknown. This practice is widely used in the United States and Canada, but is rarely used in other English-speaking countries including the United Kingdom itself, from where the use of "John Doe" in a legal context originates. The names Joe Bloggs or John Smith are used in the UK instead, as well as in Australia and New Zealand.
+
+John Doe is sometimes used to refer to a typical male in other contexts as well, in a similar manner to John Q. Public, known in Great Britain as Joe Public, John Smith or Joe Bloggs. For example, the first name listed on a form is often John Doe, along with a fictional address or other fictional information to provide an example of how to fill in the form. The name is also used frequently in popular culture, for example in the Frank Capra film Meet John Doe. John Doe was also the name of a 2002 American television series.
+
+Similarly, a child or baby whose identity is unknown may be referred to as Baby Doe. A notorious murder case in Kansas City, Missouri, referred to the baby victim as Precious Doe. Other unidentified female murder victims are Cali Doe and Princess Doe. Additional persons may be called James Doe, Judy Doe, etc. However, to avoid possible confusion, if two anonymous or unknown parties are cited in a specific case or action, the surnames Doe and Roe may be used simultaneously; for example, "John Doe v. Jane Roe". If several anonymous parties are referenced, they may simply be labelled John Doe #1, John Doe #2, etc. (the U.S. Operation Delego cited 21 (numbered) "John Doe"s) or labelled with other variants of Doe / Roe / Poe / etc. Other early alternatives such as John Stiles and Richard Miles are now rarely used, and Mary Major has been used in some American federal cases.
+
+
+
+File created by https://www.online-convert.com
+More example files: https://www.online-convert.com/file-type
+Text of Example content: Wikipedia (https://en.wikipedia.org/wiki/John_Doe)
+License: Attribution-ShareAlike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Feel free to use and share the file according to the license above.
+🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️
+🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️
+🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️
+🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️
+🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️🏃🏼‍♂️
+🙂🙂🙂🙂🙂🙂🙂🙂🙂
+
+
+
+
+4a222072
+696e6e6f
+
+Block 6:
+6f442065
+61202265
+2220646e
+696e614a
+6f442065
+66202265
+6320726f
+646c6968
+2c6e6572
+20726f20
+7473756a
+6f442220
+6e202265
+672d6e6f
+65646e65
+70732d72
+
+Block 7:
+66696365
+6c616369
+6120796c
+75206572
+20646573
+70207361
+6563616c
+646c6f68
+6e207265
+73656d61
+726f6620
+70206120
+79747261
+6f687720
+74206573
+20657572
+
+Block 8:
+6e656469
+79746974
+20736920
+6e6b6e75
+206e776f
+6d20726f
+20747375
+77206562
+68687469
+20646c65
+61206e69
+67656c20
+61206c61
+6f697463
+63202c6e
+2c657361
+
+Block 9:
+20726f20
+63736964
+69737375
+202e6e6f
+20656854
+656d616e
+72612073
+6c612065
+75206f73
+20646573
+72206f74
+72656665
+206f7420
+726f6361
+20657370
+6820726f
+
+Block 10:
+6970736f
+206c6174
+69746170
+20746e65
+736f6877
+64692065
+69746e65
+69207974
+6e752073
+776f6e6b
+54202e6e
+20736968
+63617270
+65636974
+20736920
+65646977
+
+Block 11:
+7520796c
+20646573
+74206e69
+55206568
+6574696e
+74532064
+73657461
+646e6120
+6e614320
+2c616461
+74756220
+20736920
+65726172
+7520796c
+20646573
+6f206e69
+
+Block 12:
+72656874
+676e4520
+6873696c
+6570732d
+6e696b61
+6f632067
+72746e75
+20736569
+6c636e69
+6e696475
+68742067
+6e552065
+64657469
+6e694b20
+6d6f6467
+73746920
+
+Block 13:
+2c666c65
+6f726620
+6877206d
+20657265
+20656874
+20657375
+2220666f
+6e686f4a
+656f4420
+6e692022
+6c206120
+6c616765
+6e6f6320
+74786574
+69726f20
+616e6967
+
+Block 14:
+2e736574
+65685420
+6d616e20
+4a207365
+4220656f
+67676f6c
+726f2073
+686f4a20
+6d53206e
+20687469
+20657261
+64657375
+206e6920
+20656874
+69204b55
+6574736e
+
+Block 15:
+202c6461
+77207361
+206c6c65
+69207361
+7541206e
+61727473
+2061696c
+20646e61
+2077654e
+6c61655a
+2e646e61
+802e940a
+00059504
+00000000
+018c0000
+802e940a
+
+Block 16:
+02189504
+00000000
+11580000
+4a000002
+206e686f
+20656f44
+73207369
+74656d6f
+73656d69
+65737520
+6f742064
+66657220
+74207265
+2061206f
+69707974
+206c6163
+
+Block 17:
+656c616d
+206e6920
+6568746f
+6f632072
+7865746e
+61207374
+65772073
+202c6c6c
+61206e69
+6d697320
+72616c69
+6e616d20
+2072656e
+4a206f74
+206e686f
+50202e51
+
+Block 18:
+696c6275
+6b202c63
+6e776f6e
+206e6920
+61657247
+72422074
+69617469
+7361206e
+656f4a20
+62755020
+2c63696c
+686f4a20
+6d53206e
+20687469
+4a20726f
+4220656f
+
+Block 19:
+67676f6c
+46202e73
+6520726f
+706d6178
+202c656c
+20656874
+73726966
+616e2074
+6c20656d
+65747369
+6e6f2064
+66206120
+206d726f
+6f207369
+6e657466
+686f4a20
+
+Block 20:
+6f44206e
+61202c65
+676e6f6c
+74697720
+20612068
+74636966
+616e6f69
+6461206c
+73657264
+726f2073
+68746f20
+66207265
+69746369
+6c616e6f
+666e6920
+616d726f
+
+Block 21:
+6e6f6974
+206f7420
+766f7270
+20656469
+65206e61
+706d6178
+6f20656c
+6f682066
+6f742077
+6c696620
+6e69206c
+65687420
+726f6620
+54202e6d
+6e206568
+20656d61
+
+Block 22:
+61207369
+206f736c
+64657375
+65726620
+6e657571
+20796c74
+70206e69
+6c75706f
+63207261
+75746c75
+202c6572
+20726f66
+6d617865
+20656c70
+74206e69
+46206568
+
+Block 23:
+6b6e6172
+70614320
+66206172
+206d6c69
+7465654d
+686f4a20
+6f44206e
+4a202e65
+206e686f
+20656f44
+20736177
+6f736c61
+65687420
+6d616e20
+666f2065
+32206120
+
+Block 24:
+20323030
+72656d41
+6e616369
+6c657420
+73697665
+206e6f69
+69726573
+0a2e7365
+04802e94
+00000595
+00000000
+0a018c00
+04802e94
+00037995
+00000000
+03725800
+
+Block 25:
+69530000
+616c696d
+2c796c72
+63206120
+646c6968
+20726f20
+79626162
+6f687720
+69206573
+746e6564
+20797469
+75207369
+6f6e6b6e
+6d206e77
+62207961
+65722065
+
+Block 26:
+72726566
+74206465
+7361206f
+62614220
+6f442079
+41202e65
+746f6e20
+6f69726f
+6d207375
+65647275
+61632072
+69206573
+614b206e
+7361736e
+74694320
+4d202c79
+
+Block 27:
+6f737369
+2c697275
+66657220
+65727265
+6f742064
+65687420
+62616220
+69762079
+6d697463
+20736120
+63657250
+73756f69
+656f4420
+744f202e
+20726568
+64696e75
+
+Block 28:
+69746e65
+64656966
+6d656620
+20656c61
+6472756d
+76207265
+69746369
+6120736d
+43206572
+20696c61
+20656f44
+20646e61
+6e697250
+73736563
+656f4420
+6441202e
+
+Block 29:
+69746964
+6c616e6f
+72657020
+736e6f73
+79616d20
+20656220
+6c6c6163
+4a206465
+73656d61
+656f4420
+754a202c
+44207964
+202c656f
+2e637465
+776f4820
+72657665
+
+Block 30:
+6f74202c
+6f766120
+70206469
+6973736f
+20656c62
+666e6f63
+6f697375
+69202c6e
+77742066
+6e61206f
+6d796e6f
+2073756f
+7520726f
+6f6e6b6e
+70206e77
+69747261
+
+Block 31:
+61207365
+63206572
+64657469
+206e6920
+70732061
+66696365
+63206369
+20657361
+6120726f
+6f697463
+74202c6e
+73206568
+616e7275
+2073656d
+20656f44
+20646e61
+
+Block 32:
+20656f52
+2079616d
+75206562
+20646573
+756d6973
+6e61746c
+73756f65
+203b796c
+20726f66
+6d617865
+2c656c70
+6f4a2220
+44206e68
+7620656f
+614a202e
+5220656e
+
+Block 33:
+2e22656f
+20664920
+65766573
+206c6172
+6e6f6e61
+756f6d79
+61702073
+65697472
+72612073
+65722065
+65726566
+6465636e
+6874202c
+6d207965
+73207961
+6c706d69
+
+Block 34:
+65622079
+62616c20
+656c6c65
+6f4a2064
+44206e68
+2320656f
+4a202c31
+206e686f
+20656f44
+202c3223
+2e637465
+68742820
+2e552065
+4f202e53
+61726570
+6e6f6974
+
+Block 35:
+6c654420
+206f6765
+65746963
+31322064
+756e2820
+7265626d
+20296465
+686f4a22
+6f44206e
+29732265
+20726f20
+6562616c
+64656c6c
+74697720
+746f2068
+20726568
+
+Block 36:
+69726176
+73746e61
+20666f20
+20656f44
+6f52202f
+202f2065
+20656f50
+7465202f
+4f202e63
+72656874
+72616520
+6120796c
+7265746c
+6974616e
+20736576
+68637573
+
+Block 37:
+20736120
+6e686f4a
+69745320
+2073656c
+20646e61
+68636952
+20647261
+656c694d
+72612073
+6f6e2065
+61722077
+796c6572
+65737520
+61202c64
+4d20646e
+20797261
+
+Block 38:
+6f6a614d
+61682072
+65622073
+75206e65
+20646573
+73206e69
+20656d6f
+72656d41
+6e616369
+64656620
+6c617265
+73616320
+0a2e7365
+04802e94
+00000595
+00000000
+
+Block 39:
+0a018c00
+04802e94
+00000595
+00000000
+0a018c00
+04802e94
+00000595
+00000000
+0a018c00
+04802e94
+00003395
+00000000
+462f8c00
+20656c69
+61657263
+20646574
+
+Block 40:
+68207962
+73707474
+772f2f3a
+6f2e7777
+6e696c6e
+6f632d65
+7265766e
+6f632e74
+2e940a6d
+41950480
+00000000
+8c000000
+726f4d3d
+78652065
+6c706d61
+69662065
+
+Block 41:
+3a73656c
+74746820
+2f3a7370
+7777772f
+6c6e6f2e
+2d656e69
+766e6f63
+2e747265
+2f6d6f63
+656c6966
+7079742d
+2e940a65
+50950480
+00000000
+8c000000
+7865544c
+
+Block 42:
+666f2074
+61784520
+656c706d
+6e6f6320
+746e6574
+6957203a
+6570696b
+20616964
+74746828
+2f3a7370
+2e6e652f
+696b6977
+69646570
+726f2e61
+69772f67
+4a2f696b
+
+Block 43:
+5f6e686f
+29656f44
+802e940a
+005a9504
+00000000
+568c0000
+6563694c
+3a65736e
+74744120
+75626972
+6e6f6974
+6168532d
+6c416572
+20656b69
+20302e34
+74746828
+
+Block 44:
+2f3a7370
+6572632f
+76697461
+6d6f6365
+736e6f6d
+67726f2e
+63696c2f
+65736e65
+79622f73
+2f61732d
+2f302e34
+2e940a29
+05950480
+00000000
+8c000000
+2e940a01
+
+Block 45:
+48950480
+00000000
+8c000000
+65654644
+7266206c
+74206565
+7375206f
+6e612065
+68732064
+20657261
+20656874
+656c6966
+63636120
+6964726f
+7420676e
+6874206f
+
+Block 46:
+696c2065
+736e6563
+62612065
+2e65766f
+802e940a
+006b9504
+00000000
+678c0000
+838f9ff0
+bc8f9ff0
+e28d80e2
+b8ef8299
+8f9ff08f
+8f9ff083
+8d80e2bc
+ef8299e2
+
+Block 47:
+9ff08fb8
+9ff0838f
+80e2bc8f
+8299e28d
+f08fb8ef
+f0838f9f
+e2bc8f9f
+99e28d80
+8fb8ef82
+838f9ff0
+bc8f9ff0
+e28d80e2
+b8ef8299
+8f9ff08f
+8f9ff083
+8d80e2bc
+
+Block 48:
+ef8299e2
+940a8fb8
+9504802e
+0000006b
+00000000
+9ff0678c
+9ff0838f
+80e2bc8f
+8299e28d
+f08fb8ef
+f0838f9f
+e2bc8f9f
+99e28d80
+8fb8ef82
+838f9ff0
+bc8f9ff0
+
+Block 49:
+e28d80e2
+b8ef8299
+8f9ff08f
+8f9ff083
+8d80e2bc
+ef8299e2
+9ff08fb8
+9ff0838f
+80e2bc8f
+8299e28d
+f08fb8ef
+f0838f9f
+e2bc8f9f
+99e28d80
+8fb8ef82
+802e940a
+
+Block 50:
+006b9504
+00000000
+678c0000
+838f9ff0
+bc8f9ff0
+e28d80e2
+b8ef8299
+8f9ff08f
+8f9ff083
+8d80e2bc
+ef8299e2
+9ff08fb8
+9ff0838f
+80e2bc8f
+8299e28d
+f08fb8ef
+
+Block 51:
+f0838f9f
+e2bc8f9f
+99e28d80
+8fb8ef82
+838f9ff0
+bc8f9ff0
+e28d80e2
+b8ef8299
+8f9ff08f
+8f9ff083
+8d80e2bc
+ef8299e2
+940a8fb8
+9504802e
+0000006b
+00000000
+
+Block 52:
+9ff0678c
+9ff0838f
+80e2bc8f
+8299e28d
+f08fb8ef
+f0838f9f
+e2bc8f9f
+99e28d80
+8fb8ef82
+838f9ff0
+bc8f9ff0
+e28d80e2
+b8ef8299
+8f9ff08f
+8f9ff083
+8d80e2bc
+
+Block 53:
+ef8299e2
+9ff08fb8
+9ff0838f
+80e2bc8f
+8299e28d
+f08fb8ef
+f0838f9f
+e2bc8f9f
+99e28d80
+8fb8ef82
+802e940a
+006b9504
+00000000
+678c0000
+838f9ff0
+bc8f9ff0
+
+Block 54:
+e28d80e2
+b8ef8299
+8f9ff08f
+8f9ff083
+8d80e2bc
+ef8299e2
+9ff08fb8
+9ff0838f
+80e2bc8f
+8299e28d
+f08fb8ef
+f0838f9f
+e2bc8f9f
+99e28d80
+8fb8ef82
+838f9ff0
+
+Block 55:
+bc8f9ff0
+e28d80e2
+b8ef8299
+8f9ff08f
+8f9ff083
+8d80e2bc
+ef8299e2
+940a8fb8
+9504802e
+00000029
+00000000
+9ff0258c
+9ff08299
+9ff08299
+9ff08299
+9ff08299
+
+Block 56:
+9ff08299
+9ff08299
+9ff08299
+9ff08299
+940a8299
+0000802e
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00006ea8
+00000000
+
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Traceback (most recent call last):
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 2, in <module>
+    import Prep_data
+ModuleNotFoundError: No module named 'Prep_data'
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Traceback (most recent call last):
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 2, in <module>
+    from Prep_data import *
+ModuleNotFoundError: No module named 'Prep_data'
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Traceback (most recent call last):
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 2, in <module>
+    from Prep_data import preprocess_binary_file, split_into_blocks,convert_block_to_words
+ModuleNotFoundError: No module named 'Prep_data'
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> ^C
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Total binary data size: 28672 bits
+Total binary data size: 28672 bits
+MD5 Hash: 1bd31959c2b04c4fbb5f11d0e2fd6809
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Total binary data size: 28672 bits
+Total binary data size: 25088 bits
+MD5 Hash: e86c7342cedfebc9baafd2bfee066eea
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Total binary data size: 25088 bits
+MD5 Hash: e86c7342cedfebc9baafd2bfee066eea
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> ^C
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Total binary data size: 28672 bits
+MD5 Hash: 1bd31959c2b04c4fbb5f11d0e2fd6809
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Total binary data size: 27648 bits
+MD5 Hash: 8063a559573ed8db66adb9634d08c2d8
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Error: File 'PreP_data.cpython-311.pyc' not found.
+Traceback (most recent call last):
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 102, in <module>
+    hash_result = md5.compute_md5("PreP_data.cpython-311.pyc")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 79, in compute_md5
+    binary_message = preprocess_binary_file(filename)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/PreP_data.py", line 17, in preprocess_binary_file
+    binary_data += b'\x80'
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'bytes'
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Error: File '' not found.
+Traceback (most recent call last):
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 102, in <module>
+    hash_result = md5.compute_md5("")
+                  ^^^^^^^^^^^^^^^^^^^
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/md5.py", line 79, in compute_md5
+    binary_message = preprocess_binary_file(filename)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mr./Desktop/Project_Crypt_Hash/Program_Implementation/Md5/PreP_data.py", line 17, in preprocess_binary_file
+    binary_data += b'\x80'
+TypeError: unsupported operand type(s) for +=: 'NoneType' and 'bytes'
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Total binary data size: 1505280 bits
+MD5 Hash: 9bc3771b4487fc83abb8b96640fd76e8
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5> python3 md5.py
+Total binary data size: 1505280 bits
+Total binary data size: 335922688 bits
+MD5 Hash: 9bc3771b4487fc83abb8b96640fd76e8
+MD5 Hash: 23e967315ff90fe15cc1bec0e0ce7f6a
+mr.@nbucststd:~/Desktop/Project_Crypt_Hash/Program_Implementation/Md5>
