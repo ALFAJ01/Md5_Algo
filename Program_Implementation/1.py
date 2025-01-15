@@ -1,8 +1,55 @@
+
 import os
 import math
 from datetime import datetime
 import os
 from PreP_data import preprocess_data, split_into_blocks, convert_block_to_words
+
+def preprocess_data(data, is_file=True):
+    """
+    Preprocess input data for MD5 hashing.
+
+    Args:
+        data: The input data (string or file path).
+        is_file: Boolean indicating whether the input is a file path or instance data.
+
+    Returns:
+        Binary data ready for MD5 hashing.
+    """
+    if is_file:
+        try:
+            with open(data, 'rb') as f:
+                binary_data = f.read()
+        except FileNotFoundError:
+            print(f"Error: File '{data}' not found.")
+            return None
+    else:
+        # Convert string to bytes
+        binary_data = data.encode('utf-8')
+
+    original_length = len(binary_data) * 8  # Length in bits
+
+    # Step 1: Append '1' bit (10000000 in binary) and '0' bits
+    binary_data += b'\x80'
+    while (len(binary_data) * 8) % 512 != 448:
+        binary_data += b'\x00'
+
+    # Step 2: Append 64-bit length of the original message in bits (little-endian)
+    binary_data += original_length.to_bytes(8, byteorder='little')
+
+    print(f"Total binary data size: {len(binary_data) * 8} bits")
+    return binary_data
+
+
+def split_into_blocks(binary_data, block_size=64):
+    return [binary_data[i:i + block_size] for i in range(0, len(binary_data), block_size)]
+
+def convert_block_to_words(block):
+    words = []
+    for i in range(0, len(block), 4):  # Process 4 bytes (32 bits) at a time
+        word = int.from_bytes(block[i:i + 4], byteorder='little')  # LSB first
+        words.append(word)
+    return words
 
 class MD5:
     def __init__(self):
@@ -14,10 +61,10 @@ class MD5:
 
     def reset(self):
         """Reset MD5 internal state variables."""
-        self.A = 0x01234567
-        self.B = 0x89abcdef
-        self.C = 0xfedcba98
-        self.D = 0x76543210
+        self.A = 0x67452301
+        self.B = 0xefcdab89
+        self.C = 0x98badcfe
+        self.D = 0x10325476
 
     def _left_rotate(self, x, n):
         """Left-rotate a 32-bit integer x by n positions."""
@@ -61,7 +108,7 @@ class MD5:
         # Round 3
         S = [4, 11, 16, 23]
         for i in range(16):
-            k = (1 + 3 * i) % 16
+            k = (5 + 3 * i) % 16
             s = S[i % 4]
             A = (B + self._left_rotate(A + self._H(B, C, D) + X[k] + self.T[32 + i], s)) & 0xFFFFFFFF
             A, B, C, D = D, A, B, C
